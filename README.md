@@ -1,9 +1,6 @@
 # atproto-tid
 
-[View on JSR](https://jsr.io/@mary/atproto-tid)\
-[Source code](https://codeberg.org/mary-ext/pkg-atproto-tid)
-
-Create and parse AT Protocol TID format.
+Create and parse AT Protocol TID's format.
 
 ```ts
 create(1709512159544000, 24); // -> 3kmtfck6kq22s
